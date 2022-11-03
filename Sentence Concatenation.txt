@@ -7,3 +7,6 @@ Oppo A57 comes with 6.56 inches display and its resolution is 345345 pixels. The
 
 Equipped with impressive features and decent specifications, the Samsung Galaxy A02 is a perfect choice that is Released 2021, January 27. Its 206g, 9.1mm thickness body makes it stylish.
  Samsung Galaxy A02 comes with 6.5" inches display and its resolution is 720x1600 pixels. The camera is 13 MP          with 1080p video pixels. It is powered by a MT6739W chipset. It has 2-4 GB RAM  and The device comes with 32GB/64GB storage, microSDXC slot. The handset runs Android 10, One UI 2.0 operating system and it houses a 5000 mAh  Li-Po battery that offers you a long-lasting entertainment without worrying about battery drainage.
+
+
+<p>GitHub, Inc. is an Internet hosting service for software development and version control using Git.It offers each project access control, bug tracking, software feature requests, task management, continuous integration, and wikis in addition to Git's distributed version control.More than 83 million developers work together on GitHub to change the software landscape.</p>
