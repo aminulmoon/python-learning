@@ -1,10 +1,12 @@
+import os
+from dotenv import load_dotenv
 from requests import get, post
 import json
 import base64
+load_dotenv()
 
-
-wp_user = 'mmoon'
-wp_password = 'ZXtE 8iFE VV86 7jOl XQyP Tt4i'
+wp_user = os.getenv('wp_user')
+wp_password = os.getenv('wp_password')
 wp_credential = f'{wp_user}:{wp_password}'
 wp_token = base64.b64encode(wp_credential.encode())
 wp_headers = {'Authorization': 'Basic '+wp_token.decode('utf-8')}
