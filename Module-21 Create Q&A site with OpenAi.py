@@ -8,15 +8,17 @@
 #     print(url, res, sep='.....')
 
 
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
 import openai
 
-openai.api_key = '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'
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def openai_ans(my_questions):
   response = openai.Completion.create(
     model="text-davinci-002",
-    prompt= my_questions,
+    prompt=my_questions,
     temperature=0.7,
     max_tokens=321,
     top_p=1,
